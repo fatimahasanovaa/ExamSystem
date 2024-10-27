@@ -1,0 +1,14 @@
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/bin/Debug/net8.0/ExamSystem
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/bin/Debug/net8.0/ExamSystem.deps.json
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/bin/Debug/net8.0/ExamSystem.runtimeconfig.json
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/bin/Debug/net8.0/ExamSystem.dll
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/bin/Debug/net8.0/ExamSystem.pdb
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/ExamSystem.AssemblyInfoInputs.cache
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/ExamSystem.AssemblyInfo.cs
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/ExamSystem.csproj.CoreCompileInputs.cache
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/ExamSystem.dll
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/refint/ExamSystem.dll
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/ExamSystem.pdb
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/ExamSystem.genruntimeconfig.cache
+/Users/fatima/Desktop/MVC/ConsoleApp2/ExamSystem/obj/Debug/net8.0/ref/ExamSystem.dll

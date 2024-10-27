@@ -1,0 +1,20 @@
+Julia's mother named her four daughters February, March, and April. What is the name of her other daughter?
+a) May; b) Julia; c) January; d) June; b
+A train is going north, and the wind is blowing from the east. In which direction does the train's smoke go?
+a) East; b) West; c) North; d) South; d
+There are 10 birds on a tree, and a hunter shoots one of them. How many birds are left?
+a) 9; b) 10; c) 0; d) 1; c
+On an island, there are only people who lie and people who tell the truth. If a man says, 'I am lying,' who is this man?
+a) Truth-teller; b) Liar; c) Unknown; d) Nonsense; a
+A farm has 10 sheep, 20 cows, and 40 chickens. How many legs does the farmer have?
+a) 2; b) 4; c) 20; d) 0; a
+In a children's race, if you pass the child in 2nd place, which place are you in?
+a) 1st; b) 2nd; c) 3rd; d) 4th; b
+A house has 4 floors, and each floor has 3 windows. How many windows are there in total?
+a) 12; b) 15; c) 9; d) 18; a
+A fully loaded truck is crossing a bridge. If the load falls when the driver stops in the middle, what happens?
+a) The bridge collapses; b) The load falls; c) The truck tips over; d) The load is unloaded; b
+Which animal has no threshold?
+a) Fish; b) Dog; c) Cat; d) Horse; a
+There are 5 apples to be shared among 3 people. Each person takes an apple. How many apples are left?
+a) 1; b) 2; c) 3; d) 0; a
